@@ -1,0 +1,83 @@
+footer{
+    padding: 8vw;
+    background-color: #f7b005;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+footer .footer-col{
+    padding-bottom: 40px;
+}
+footer h3{
+    color: #fff;
+    font-weight: 600;
+    padding-bottom: 20px;
+    font-size: 1.3rem;
+}
+footer li{
+    list-style: none;
+    color: rgb(241, 240, 245);
+    padding: 10px 0;
+    font-size: 1.2rem;
+    cursor: pointer;
+    transition: .3s ease;
+}
+footer li:hover{
+    color:#fff;
+}
+footer p{
+    color:rgb(241, 240, 245);
+}
+footer .subscribe{
+    margin-top: 20px;
+}
+footer input{
+    width: 220px;
+    padding: 15px 12px;
+    background-color: #fff;
+    border: none;
+    outline: none;
+    color: #fff;
+}
+
+footer .subscribe .btn{
+    margin-top: 20px;
+}
+
+footer .subscribe a.yellow {
+    text-decoration: none;
+    font-size: 0.9rem;
+    padding: 15px 12px;
+    background-color: #fff;
+    font-weight: 600;
+    border-radius: 5px;
+    color: #f7b005;
+    transition: .3s ease;
+}
+
+footer .subscribe a.yellow:hover {
+    background-color: #f7b005;
+    border: 2px solid #fff;
+    color: #fff;
+}
+footer .copyright{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    flex-wrap: wrap;
+}
+footer .copyright .pro-links{
+    margin-top: 0px;
+}
+footer .copyright .pro-links i{
+    background-color: #fff;
+    color: #f7b005;
+}
+footer .copyright .pro-links i:hover{
+    background-color: #f7b005;
+    color:#fff;
+    border: 2px solid #fff;
+}
