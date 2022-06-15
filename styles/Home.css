@@ -86,7 +86,7 @@ nav .navigation ul li a:hover {
 #home {
     max-width: 1120px auto;
     height: 100vh;
-    background:linear-gradient(rgba(53, 52, 52, 0.5),rgba(44, 39, 39, 0.5)),url('/Images/img1.jpg');
+    background:linear-gradient(rgba(53, 52, 52, 0.5),rgba(44, 39, 39, 0.5)),url('./Images/img1.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
